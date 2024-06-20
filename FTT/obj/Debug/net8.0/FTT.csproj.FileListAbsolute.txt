@@ -1,0 +1,14 @@
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\bin\Debug\net8.0\FTT.exe
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\bin\Debug\net8.0\FTT.deps.json
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\bin\Debug\net8.0\FTT.runtimeconfig.json
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\bin\Debug\net8.0\FTT.dll
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\bin\Debug\net8.0\FTT.pdb
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\obj\Debug\net8.0\FTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\obj\Debug\net8.0\FTT.AssemblyInfoInputs.cache
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\obj\Debug\net8.0\FTT.AssemblyInfo.cs
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\obj\Debug\net8.0\FTT.csproj.CoreCompileInputs.cache
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\obj\Debug\net8.0\FTT.dll
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\obj\Debug\net8.0\refint\FTT.dll
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\obj\Debug\net8.0\FTT.pdb
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\obj\Debug\net8.0\FTT.genruntimeconfig.cache
+C:\Users\janni\OneDrive\Desktop\ftt_project\src\FTT\obj\Debug\net8.0\ref\FTT.dll
